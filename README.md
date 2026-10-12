@@ -4,11 +4,11 @@
 
 ### Stimulus Shortcuts in Cross-Subject EEG–Eye Movement Emotion Recognition
 
-Peijun Shi<sup>*</sup>, Xiujin Zhu<sup>*</sup>, Zhenguo Lao, Chee-Onn Chow, Wei Ru Wong, Sin Hui Ng, Xiaobing Jiang
+Peijun Shi<sup>&#42;</sup>, Xiujin Zhu<sup>&#42;</sup>, Zhenguo Lao, Chee-Onn Chow, Wei Ru Wong, Sin Hui Ng, Xiaobing Jiang
 
 Universiti Malaya · Huazhong University of Science and Technology
 
-<sup>*</sup> Equal contribution
+<sup>&#42;</sup> Equal contribution
 
 </div>
 
