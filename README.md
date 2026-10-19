@@ -12,7 +12,7 @@ Universiti Malaya · Huazhong University of Science and Technology
 
 </div>
 
-> **Code, clip splits, data loaders and the per-run results will be released once the paper is accepted.** Watch or star this repository to be notified.
+> **The paper has been submitted to IEEE Transactions on Neural Systems & Rehabilitation Engineering. Code, clip splits, data loaders and the per-run results will be released once the paper is accepted.** Watch or star this repository to be notified.
 
 ## Overview
 
